@@ -1,0 +1,20 @@
+{
+  "title": "Application form for grant of LTC advance",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Designation",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Service",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Date",
+      "page": 1
+    }
+  ]
+}
