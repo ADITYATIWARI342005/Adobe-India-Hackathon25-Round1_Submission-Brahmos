@@ -1,0 +1,2 @@
+# This file ensures the models directory exists in version control
+# The actual model files will be downloaded during Docker build

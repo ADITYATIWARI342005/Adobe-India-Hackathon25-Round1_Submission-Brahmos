@@ -1,0 +1,67 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Breakfast Ideas.pdf",
+      "Dinner Ideas - Mains_1.pdf",
+      "Dinner Ideas - Mains_2.pdf",
+      "Dinner Ideas - Mains_3.pdf",
+      "Dinner Ideas - Sides_1.pdf",
+      "Dinner Ideas - Sides_2.pdf",
+      "Dinner Ideas - Sides_3.pdf",
+      "Dinner Ideas - Sides_4.pdf",
+      "Lunch Ideas.pdf"
+    ],
+    "persona": "Food Contractor",
+    "job_to_be_done": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items.",
+    "processing_timestamp": "2025-07-28T10:10:33.857966",
+    "processing_time_seconds": 7.45
+  },
+  "extracted_sections": [
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "Egg Muffins",
+      "importance_rank": 1,
+      "page_number": 12
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "section_title": "• Instructions:",
+      "importance_rank": 2,
+      "page_number": 5
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 3,
+      "page_number": 3
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "• Ingredients:",
+      "importance_rank": 4,
+      "page_number": 12
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "• In the morning, stir again and add your favorite toppings. Egg Muffins Ingredients: • 6 large eggs • 1/4 cup milk • 1/2 cup diced bell pepper • 1/2 cup diced spinach • 1/4 cup shredded cheese • Salt and pepper to taste Instructions: • Preheat oven to 350°F (175°C). • In a bowl, whisk together eggs, milk, salt, and pepper. • Stir in bell pepper, spinach, and cheese. • Pour the mixture into a greased muffin tin. • Bake for 20-25 minutes or until the eggs are set.",
+      "page_number": 12
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": "o Oil for frying • Instructions: o Mix grated cassava with coconut milk and salt. o Form mixture into flat cakes. o Fry in hot oil until golden. o Drain on paper towels and serve warm. Banchan • Ingredients: o Assorted small side dishes like pickled radish, spinach, bean sprouts, kimchi • Instructions: o Prepare each side dish separately. o Arrange on small plates. o Serve as accompaniments to the main meal.",
+      "page_number": 5
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "• 1/2 teaspoon ground cinnamon • 1 tablespoon butter Instructions: • In a shallow dish, whisk together eggs, milk, vanilla extract, and cinnamon. • Dip each slice of bread into the egg mixture, coating both sides. • Heat a non-stick skillet over medium heat and melt the butter. • Cook the bread slices until golden brown on both sides. • Serve with syrup and powdered sugar.",
+      "page_number": 3
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "Msemen • Ingredients: o 2 cups flour o 1 cup semolina o 1 teaspoon salt o 1/4 cup olive oil o 1 cup water o 1/4 cup butter • Instructions: o Mix flour, semolina, and salt in a bowl. o Add water and knead until smooth. o Divide dough into balls and roll out into thin circles. o Brush with melted butter and fold into squares. o Cook on a hot griddle until golden on both sides. o Serve warm.",
+      "page_number": 12
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Learn Acrobat - Create and Convert_1.pdf",
+      "Learn Acrobat - Create and Convert_2.pdf",
+      "Learn Acrobat - Edit_1.pdf",
+      "Learn Acrobat - Edit_2.pdf",
+      "Learn Acrobat - Export_1.pdf",
+      "Learn Acrobat - Export_2.pdf",
+      "Learn Acrobat - Fill and Sign.pdf",
+      "Learn Acrobat - Generative AI_1.pdf",
+      "Learn Acrobat - Generative AI_2.pdf",
+      "Learn Acrobat - Request e-signatures_1.pdf",
+      "Learn Acrobat - Request e-signatures_2.pdf",
+      "Learn Acrobat - Share_1.pdf",
+      "Learn Acrobat - Share_2.pdf",
+      "Test Your Acrobat Exporting Skills.pdf",
+      "The Ultimate PDF Sharing Checklist.pdf"
+    ],
+    "persona": "HR professional",
+    "job_to_be_done": "Create and manage fillable forms for onboarding and compliance.",
+    "processing_timestamp": "2025-07-28T10:10:26.342496",
+    "processing_time_seconds": 12.25
+  },
+  "extracted_sections": [
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "Change flat forms to fillable (Acrobat Pro)",
+      "importance_rank": 1,
+      "page_number": 12
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "section_title": "the signature field becomes locked after you sign it.",
+      "importance_rank": 2,
+      "page_number": 6
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "the Digital Signatures Guide.",
+      "importance_rank": 3,
+      "page_number": 25
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "Is the form fillable?",
+      "importance_rank": 4,
+      "page_number": 8
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "Clear unsaved form entries",
+      "importance_rank": 5,
+      "page_number": 15
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "refined_text": "Change flat forms to fillable (Acrobat Pro) You can change a flat form to a fillable form by either using the Prepare Form tool or enabling the Fill & Sign tools. Acrobat and Acrobat Reader users can use the Fill & Sign tool to fill in flat forms. Interactive form To create an interactive form, use the Prepare Forms tool. See Create a form from an existing document.",
+      "page_number": 12
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "refined_text": "Fill in PDF Forms Is the form fillable? Not all forms are fillable. Sometimes form creators don’t convert their PDFs to interactive fillable forms. Or, they intentionally design a form that you can fill in only by hand or with the Fill & Sign tool. These non-interactive forms are called flat forms. Fill in interactive forms An interactive form contains fields that you can select or fill in. 1.",
+      "page_number": 8
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "refined_text": "Note: You can right-click a signature field in the Signatures panel to do most signature- related tasks, including adding, clearing, and validating signatures. In some cases, however, the signature field becomes locked after you sign it. Sign in preview mode for document integrity When document integrity is critical for your signature workflow, you can enable 'View documents in Preview mode', and then sign the document.",
+      "page_number": 6
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "refined_text": "Clear unsaved form entries 1. Choose Tools > Prepare a form. In the Fields side panel, choose Clear Form from the Options menu . You can sign a document to attest to its contents or approve the document. This document explains how to sign a document or agreement using Acrobat or Reader desktop application. To sign a PDF document or form, you can type, draw, or insert an image of your handwritten signature. You can also add text, such as your name, company, title, or date.",
+      "page_number": 15
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "For details on the full range of configuration options in enterprise settings, see the Digital Signatures Guide. • Choose a signature type. Learn about approval and certification signatures to determine the type you should choose to sign your document. (See Signature types.) Set signing preferences Signing workflow preferences control what you can see and do when the signing dialog box opens.",
+      "page_number": 25
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "refined_text": "Types of PDF forms • Interactive forms: These contain fields that you can select and fill in. • Flat forms: These do not have interactive fields. It could be a paper form or PDF that hasn’t been optimized for form filling. The Fill & Sign tool automatically detects the form fields like text fields, comb fields, checkboxes, and radio buttons. You can manually add text and other symbols anywhere on the form using the Fill & Sign tool if required.",
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "refined_text": "Print forms 1. Select Print this file from the upper right. 2. Choose an appropriate printer in the Print dialog box. 3. In the Comments And Forms menu, choose one of the following, and then select OK: • (Interactive or flat form) To print the form and the typed entries, choose Document. This option prints text that you’ve typed using the Add Text tool. • (Interactive or flat form) To print the form, the typed entries, and any comments on the form, choose Document And Markups.",
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "Certify options provide a higher level of document control than Digitally sign. For documents that require certification, you must certify the documents before others sign them. If a document has already been signed, the Certify options are disabled. When you certify a document, you can control the types of changes other people can make. You can certify with or without displaying a signature.",
+      "page_number": 24
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "signature. The certificate is a credential that is automatically applied to the signed document. The signature is verified when recipients open the document. When you apply a certificate-based signature, Acrobat uses a hashing algorithm to generate a message digest, which it encrypts using your private key. Acrobat embeds the encrypted message digest in the PDF, certificate details, signature image, and a document version when signed.",
+      "page_number": 22
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "Set privileges and permissions for others • Certify a document while leaving portions of it available for form filling, signatures, or comments • Use Acrobat Pro software to enable users of Reader 9 or later to sign with certificate IDs • Use Acrobat Standard or Pro to encrypt a PDF document with a certificate ID to restrict usage such as printing, editing, or copying What if my organization isn’t prepared to set up certificate- based signatures? Consider signing up for Adobe Acrobat Sign online...",
+      "page_number": 21
+    }
+  ]
+}
