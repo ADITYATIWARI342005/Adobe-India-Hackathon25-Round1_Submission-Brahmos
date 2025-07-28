@@ -25,6 +25,7 @@ What if every time you opened a PDF, it didn't just sit there—it spoke to you,
 - **Multilingual**: Bonus multilingual handling support ✓
 
 ### ✅ Round 1B: Persona-Driven Document Intelligence
+#### the challenge1b_output.json has been left unpopulated initially and the output will be generated when docker is run
 - **Processing Time**: ≤ 60 seconds for document collections ✓
 - **Model Size**: ≤ 1GB ✓
 - **CPU Only**: No GPU dependencies ✓
