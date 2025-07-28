@@ -2,6 +2,8 @@
 
 This directory contains the processed results for Adobe Hackathon Round 1B Challenge collections.
 
+## the challenge1b_output.json has been left unpopulated initially and the output will be generated when docker is run
+
 ## 🎯 Processing Results
 
 ### Collection 1: Travel Planning
